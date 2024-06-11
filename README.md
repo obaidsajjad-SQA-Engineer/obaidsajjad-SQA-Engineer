@@ -1,4 +1,4 @@
-![logo](https://github.com/osmughal01/osmughal01/blob/main/banner.jpg)
+![logo](https://github.com/osmughal01/osmughal01/blob/main/sqa-manual-automatic-functional-and-regression-testing.png)
 <h1 align="center">Hi 👋, I'm Obaid</h1>
 <h3 align="center">A dedicated SQA Engineer ensuring software quality.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471l162d1bw4i6pqb4xhb1j8qmxvyaz78c7063hq4m&ep=v1_gifs_search&rid=giphy.gif&ct=g">
