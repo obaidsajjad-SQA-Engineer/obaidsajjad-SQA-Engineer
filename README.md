@@ -1,27 +1,23 @@
 ![logo](https://github.com/osmughal01/osmughal01/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Obaid</h1>
-<h3 align="center">A dedicated Flutter developer and UI/UX designer crafting excellence in Pakistan.</h3>
+<h3 align="center">A dedicated SQA Engineer ensuring software quality.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471l162d1bw4i6pqb4xhb1j8qmxvyaz78c7063hq4m&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmughal01&label=Profile%20views&color=0e75b6&style=flat" alt="osmughal01" /> </p>
 
 
-- 🔭 I’m currently working on **Disease detection Android/iOS mobile app(Unfortunately, I'm unable to share the project link due to confidentiality agreements)**
+- 🔭 I’m currently working on **Disease detection Android/iOS mobile app**
 
-- 🌱 Exploring the world of **Flutter animations and UI/UX design principles.**
+- 🌱 Exploring the world of **SQA, STLC and manual/automation testing in SQA**
 
-- 👯 I’m looking to collaborate on **innovative Flutter app projects, particularly those involving creative UI/UX challenges.**
+- 👯 I’m looking to collaborate on **innovative SQA projects, particularly those involving manual testing and quality optimization.**
 
-- 🤝 I’m looking for help with **state management in complex Flutter projects.**
+- 🤝 I’m looking for help with **enhancing SQA processes and methodologies.**
 
-- 👨‍💻 All of my projects are available at [https://obaidsajjad.com/](https://obaidsajjad.com/)
+- 💬 Ask me about **SQA strategies and best practices.**
 
-- 💬 Ask me about **designing responsive and appealing UIs in Flutter.**
+- 📫 How to reach me **obaidsajjad913@gmail.com**
 
-- 📫 How to reach me **osmughal01@gmail.com**
-
-- 📄 Know about my experiences [https://obaidsajjad.com/](https://obaidsajjad.com/)
-
-- ⚡ Fun fact **while I may be serious about my Flutter code, my sense of humor is as dry as my code comments. 😄💻**
+- ⚡ Fun fact **I approach SQA with the precision of a surgeon and the curiosity of a detective, ensuring every line of code stands up to scrutiny. 😄🔍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
