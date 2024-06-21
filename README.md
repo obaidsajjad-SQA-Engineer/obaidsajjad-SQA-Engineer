@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/obaid-sajjad-flutterdeveloper-androiddeveloper-uiuxdesigner/" target="_blank">
+  <a href="https://www.linkedin.com/in/obaidsajjad913/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="obaidsajjad" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/brother._.obaid" target="_blank">
+  <a href="https://instagram.com/muslim.24_.7" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brother._.obaid" height="30" width="40" />
   </a>
   <a href="https://dribbble.com/obaid913" target="_blank">
