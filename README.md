@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **SQA strategies and best practices.**
 
-- 📫 How to reach me **obaidsajjad913@gmail.com**
+- 📫 How to reach me **obaidsajjad.sqa@gmail.com**
 
 - ⚡ Fun fact **I approach SQA with the precision of a surgeon and the curiosity of a detective, ensuring every line of code stands up to scrutiny. 😄🔍💻**
 
