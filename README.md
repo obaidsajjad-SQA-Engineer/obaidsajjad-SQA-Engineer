@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obaidsajjad-SQA-Engineer&label=Profile%20views&color=0e75b6&style=flat" alt="obaidsajjad-SQA-Engineer" /> </p>
 
-- 🔭 I’m currently working on **Disease detection Android/iOS mobile app**
+- 🔭 I’m currently working on **Disease detection Android/iOS mobile app, Secure Communication & Secure Vault Mobile App, Along with eCommerce website Automation testing**
 
 - 🌱 Exploring the world of **SQA, STLC and manual/automation testing in SQA**
 
