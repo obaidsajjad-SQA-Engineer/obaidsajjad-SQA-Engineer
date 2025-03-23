@@ -49,10 +49,10 @@
     <img src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" alt="cypress" width="40" height="40"/>
   </a>
   <a href="https://appium.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/appium/appium/master/docs/static/images/appium.svg" alt="appium" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/appiumio/appiumio-icon.svg" alt="appium" width="40" height="40"/>
   </a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/src/main/html/images/favicon-32x32.png" alt="swagger" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" alt="swagger" width="40" height="40"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
@@ -69,8 +69,17 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github workflows" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
@@ -91,4 +100,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obaidsajjad-SQA-Engineer&show_icons=true" alt="obaidsajjad-SQA-Engineer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obaidsajjad-SQA-Engineer" alt="obaidsajjad-SQA-Engineer" /></p>
-
