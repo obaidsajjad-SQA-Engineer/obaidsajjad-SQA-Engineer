@@ -43,7 +43,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/cypressio/cypressio-ar21.svg" alt="cypress" width="40" height="40"/>
+    <img src="[https://www.vectorlogo.zone/logos/cypressio/cypressio-ar21.svg](https://logowik.com/content/uploads/images/cypress8748.logowik.com.webp)" alt="cypress" width="40" height="40"/>
   </a>
   <a href="https://appium.io/" target="_blank" rel="noreferrer">
     <img src="https://appium.io/img/appium-logo.svg" alt="appium" width="40" height="40"/>
