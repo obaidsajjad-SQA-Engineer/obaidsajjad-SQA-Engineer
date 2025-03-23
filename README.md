@@ -46,7 +46,7 @@
     <img src="https://cdn.brandfetch.io/idIq_kF0rb/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="cypress" width="40" height="40"/>
   </a>
   <a href="https://appium.io/" target="_blank" rel="noreferrer">
-    <img src="https://appium.io/img/appium-logo.svg" alt="appium" width="40" height="40"/>
+    <img src="[https://appium.io/img/appium-logo.svg](https://www.automatetheplanet.com/wp-content/uploads/2023/04/appium-logo.png)" alt="appium" width="40" height="40"/>
   </a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/src/main/html/images/favicon-32x32.png" alt="swagger" width="40" height="40"/>
