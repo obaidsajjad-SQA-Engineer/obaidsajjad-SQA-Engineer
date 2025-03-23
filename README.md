@@ -37,22 +37,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
   </a>
   <a href="https://pytest.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="pytest" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" alt="cypress" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/cypressio/cypressio-ar21.svg" alt="cypress" width="40" height="40"/>
   </a>
   <a href="https://appium.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/appiumio/appiumio-icon.svg" alt="appium" width="40" height="40"/>
+    <img src="https://appium.io/img/appium-logo.svg" alt="appium" width="40" height="40"/>
   </a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" alt="swagger" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/src/main/html/images/favicon-32x32.png" alt="swagger" width="40" height="40"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
@@ -100,3 +97,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obaidsajjad-SQA-Engineer&show_icons=true" alt="obaidsajjad-SQA-Engineer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obaidsajjad-SQA-Engineer" alt="obaidsajjad-SQA-Engineer" /></p>
+
