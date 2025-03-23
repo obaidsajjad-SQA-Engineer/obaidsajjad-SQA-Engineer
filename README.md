@@ -49,7 +49,7 @@
     <img src="https://www.svgviewer.dev/s/13580/appium" alt="appium" width="40" height="40"/>
   </a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/src/main/html/images/favicon-32x32.png" alt="swagger" width="40" height="40"/>
+    <img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" alt="swagger" width="40" height="40"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
