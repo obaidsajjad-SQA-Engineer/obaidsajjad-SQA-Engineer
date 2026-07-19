@@ -68,7 +68,7 @@
     <img src="https://cdn.brandfetch.io/idIq_kF0rb/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="cypress" width="40" height="40"/>
   </a>
   <a href="https://appium.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgviewer.dev/s/13580/appium" alt="appium" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/appium/000000" alt="appium" width="40" height="40"/>
   </a>
   <a href="https://pytest.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="40" height="40"/>
@@ -105,8 +105,4 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidsajjad-SQA-Engineer&layout=compact&langs_count=8" alt="obaidsajjad-SQA-Engineer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obaidsajjad-SQA-Engineer&show_icons=true" alt="obaidsajjad-SQA-Engineer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obaidsajjad-SQA-Engineer" alt="obaidsajjad-SQA-Engineer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obaidsajjad-SQA-Engineer&theme=dark&hide_border=true" alt="obaidsajjad-SQA-Engineer" /></p>
